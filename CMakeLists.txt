@@ -5,7 +5,7 @@ add_subdirectory(iotserver)
 add_subdirectory(iotScheduler)
 #set(CMAKE_INSTALL_PREFIX "/etc/init.d/")
 install(
-	FILES files/iotgateway files/iotscheduler 
+	FILES files/iotgateway files/iotscheduler  
 	PERMISSIONS OWNER_EXECUTE OWNER_WRITE OWNER_READ GROUP_EXECUTE WORLD_EXECUTE
 	DESTINATION "/etc/init.d" 
 )
