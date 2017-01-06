@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 2.8.9)
 project(iotmanager)
 
-add_subdirectory(iotserver)
+add_subdirectory(iotServer)
 add_subdirectory(iotScheduler)
 #set(CMAKE_INSTALL_PREFIX "/etc/init.d/")
 install(

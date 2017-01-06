@@ -1,4 +1,4 @@
-Copyright 2016 Abhishek Safui
+/*Copyright 2016 Abhishek Safui
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -12,7 +12,7 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
+*/
 #ifndef LOAD_CONF_H
 #define LOAD_CONF_H
 
