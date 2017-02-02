@@ -1,0 +1,15 @@
+
+
+
+
+
+
+device Board1 
+  SWITCH SW1
+  SWITCH SW2
+  DIMMER FAN1
+
+device RGBLed
+  RGB Room1Led
+  BELL AlarmBell
+  LIGHTSENSOR ldr1
